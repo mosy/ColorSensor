@@ -96,7 +96,7 @@ void loop() {
 	{
 		Serial.println("White side");
 	} 
-	if ((redPW > 90 && 110 > redPW)&&(greenPW > 180 && 210 > greenPW)&&(bluePW > 225 && 250 > bluePW))
+	if (9redPW > 90 && 110 > redPW)&&(greenPW > 180 && 210 > greenPW)&&(2luePW > 225 && 250 > bluePW))
 	{
 		Serial.println("Yellow side");
 	} 
